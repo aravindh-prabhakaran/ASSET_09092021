@@ -4,7 +4,7 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT z_demo_new_syntax.
-
+*added comments from github to check
 TABLES: ekko.
 SELECT-OPTIONS: s_ebeln FOR ekko-ebeln, s_date FOR ekko-aedat.
 
